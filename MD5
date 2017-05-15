@@ -1,0 +1,14 @@
+5453c9b47d7cff8740856ee643db1b68 *DESCRIPTION
+9c25e1cdc3b5122842a6a70fab49a522 *LICENSE
+853d13ab94a13b424304772f30a607db *NAMESPACE
+81c9ae90f4d95bde5ed04cb3ab1942d5 *R/issueReport.R
+9d304e40725e182cbb234887af5476e4 *README.md
+6de615f8751517b12a96882bce913694 *inst/examples/exampleReportOne.R
+449bfc430dae9c970c5354f0313b191e *inst/examples/exampleReportOne.pdf
+d72c0766d65ebd0f06170fbb0eead3e3 *inst/extdata/dataExample.rds
+65d97838154e6c0dbaafc6072f660d10 *inst/rmarkdown/templates/tint.Rmd
+afb332901915e2736de123f8322c4c74 *man/issueReport.Rd
+c9c8c3a95ab26bba1968751dfc621080 *man/issuesData.Rd
+a17cf7b5d56d6795049702aa4f1bb381 *man/issuesData2md.Rd
+f6d0b3186872fd8a730b893b1d890fb8 *man/issuesGenPDF.Rd
+0476031303a39e345e9b8fcdd317d805 *tests/test.R
